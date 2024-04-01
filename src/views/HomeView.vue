@@ -14,56 +14,38 @@
     <div class="card-grid">
       <div class="card">
         <div class="card-text">
-          <h3>Trilha 1</h3>
-          <p>Descrição trilha</p>
+          <h3>Quero me planejar</h3>
+          <p>Orçamento e controle</p>
         </div>
         <div class="card-icon">
-          <img src="../assets/money.svg" alt="Trilha bloqueada" />
+          <img src="../assets/financeiro.png" alt="Trilha" />
         </div>
       </div>
       <div class="card">
         <div class="card-text">
-          <h3>Trilha 2</h3>
-          <p>Descrição trilha</p>
+          <h3>Quero aprender a poupar e investir</h3>
+          <p>Conhecimento sobre investimentos</p>
         </div>
         <div class="card-icon">
-          <img src="../assets/money.svg" alt="Trilha bloqueada" />
+          <img src="../assets/learning.png" alt="Trilha" />
         </div>
       </div>
       <div class="card">
         <div class="card-text">
-          <h3>Trilha 3</h3>
-          <p>Descrição trilha</p>
+          <h3>Estou endividado</h3>
+          <p>Redução de despesas e amortização</p>
         </div>
         <div class="card-icon">
-          <img src="../assets/money.svg" alt="Trilha bloqueada" />
+          <img src="../assets/debt.png" alt="Trilha" />
         </div>
       </div>
       <div class="card">
         <div class="card-text">
-          <h3>Trilha 4</h3>
-          <p>Descrição trilha</p>
+          <h3>Para todos</h3>
+          <p>Relação com o dinheiro e importância</p>
         </div>
         <div class="card-icon">
-          <img src="../assets/money.svg" alt="Trilha bloqueada" />
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-text">
-          <h3>Trilha 5</h3>
-          <p>Descrição trilha</p>
-        </div>
-        <div class="card-icon">
-          <img src="../assets/money.svg" alt="Trilha bloqueada" />
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-text">
-          <h3>Trilha 6</h3>
-          <p>Descrição trilha</p>
-        </div>
-        <div class="card-icon">
-          <img src="../assets/money.svg" alt="Trilha bloqueada" />
+          <img src="../assets/people.png" alt="Trilha" />
         </div>
       </div>
     </div>
